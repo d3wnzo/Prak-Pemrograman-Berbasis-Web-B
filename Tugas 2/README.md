@@ -13,7 +13,7 @@ Screenshot Sesudah (dosen)
 
 ![Screenshot Sesudah (dosen)](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/c9f8a64dabefd7ef1a5ab13e55aad64d825b9ca1/Tugas%202/After/dosen%20(After).png)
 
-===
+---
 
 Screenshot Sebelum (mata_kuliah)
 
