@@ -107,7 +107,7 @@ else {
 ![input mata kuliah](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/887b4397d8fa16556463178375eda80df105d5c6/3/Tugas%205/Screenshots/Database/After/mata_kuliah.png)
 
 # Analisis Error
-### setup.php
+### `setup.php`
 ```php
 <?php
 require_once 'koneksi.php';
