@@ -1,9 +1,9 @@
 # TUGAS 5 NAYUNDA KRISNA - 4524210077
 ### dosen (Before)
-![dosen (Before)](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/02642bb0e760489b7c4f66fe7cd2ec8d414b92e0/3/Tugas%205/Screenshot/Database/Before/dosen.png)
+![dosen (Before)](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/02642bb0e760489b7c4f66fe7cd2ec8d414b92e0/3/Tugas%205/Screenshots/Database/Before/dosen.png)
 
 ### dosen (After)
-![dosen (After)](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/02642bb0e760489b7c4f66fe7cd2ec8d414b92e0/3/Tugas%205/Screenshot/Database/After/dosen.png)
+![dosen (After)](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/02642bb0e760489b7c4f66fe7cd2ec8d414b92e0/3/Tugas%205/Screenshots/Database/After/dosen.png)
 # Penambahan Data dosen
 Query: `INSERT INTO dosen (nidn, nama, email) VALUES (123, 'Fikri, M.bob', handapasal@gmail.com);`
 
