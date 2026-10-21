@@ -8,7 +8,7 @@
 Query: `INSERT INTO dosen (nidn, nama, email) VALUES (123, 'Fikri, M.bob', handapasal@gmail.com);`
 
 # Penambahan 2 File
-### form_mk.php
+### `form_mk.php`
 ```php
 <form action="simpan_mk.php" method="POST">
     <label for="kode_mk">Kode Mata Kuliah:</label>
@@ -46,7 +46,7 @@ Query: `INSERT INTO dosen (nidn, nama, email) VALUES (123, 'Fikri, M.bob', handa
    * Terhubung ke file `koneksi.php` untuk mengambil data dosen langsung dari database.
    * Menjalankan *query* SQL `SELECT id, nama FROM dosen` lalu melakukan perulangan (`while`) untuk merender daftar opsi dosen secara otomatis.
    * Nilai `value` yang dikirim adalah `id` dosen (sebagai *foreign key*), sedangkan teks yang ditampilkan ke pengguna adalah `nama` dosen.
-### simpan_mk.php
+### `simpan_mk.php`
 ```php
 <?php
 include 'koneksi.php';
