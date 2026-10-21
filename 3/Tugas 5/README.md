@@ -1,9 +1,9 @@
 # TUGAS 5 NAYUNDA KRISNA - 4524210077
-### dosen (Before)
-![dosen (Before)](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/02642bb0e760489b7c4f66fe7cd2ec8d414b92e0/3/Tugas%205/Screenshots/Database/Before/dosen.png)
+`dosen` (Before)
+![dosen (Before)](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/887b4397d8fa16556463178375eda80df105d5c6/3/Tugas%205/Screenshots/Database/Before/dosen.png)
 
-### dosen (After)
-![dosen (After)](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/02642bb0e760489b7c4f66fe7cd2ec8d414b92e0/3/Tugas%205/Screenshots/Database/After/dosen.png)
+`dosen` (After)
+![dosen (After)](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/887b4397d8fa16556463178375eda80df105d5c6/3/Tugas%205/Screenshots/Database/After/dosen.png)
 # Penambahan Data dosen
 Query: `INSERT INTO dosen (nidn, nama, email) VALUES (123, 'Fikri, M.bob', handapasal@gmail.com);`
 
@@ -86,25 +86,25 @@ else {
    * Jika gagal, skrip akan menampilkan pesan error disertai fungsi `mysqli_error()` untuk memudahkan proses *debugging*.
 
 # Hasil Run form.php & form_mk.php
-### form.php
-![input mahasiswa](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/b5f9a60a9300b2cb4c112e8feedc142e7963369e/3/Tugas%205/Screenshot/Form/input%20mahasiswa.png)
+`form.php`
+![input mahasiswa](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/887b4397d8fa16556463178375eda80df105d5c6/3/Tugas%205/Screenshots/Form/input%20mahasiswa.png)
 
-### mahasiswa (Before)
-![input mahasiswa](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/cdff7ee98e14b83fb997053658cbdf7d6858ebf2/3/Tugas%205/Screenshot/Database/Before/mahasiswa.png)
+`mahasiswa` (Before)
+![input mahasiswa](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/887b4397d8fa16556463178375eda80df105d5c6/3/Tugas%205/Screenshots/Database/Before/mahasiswa.png)
 
-### mahasiswa (After)
-![input mahasiswa](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/b5f9a60a9300b2cb4c112e8feedc142e7963369e/3/Tugas%205/Screenshot/Database/After/mahasiswa.png)
+`mahasiswa` (After)
+![input mahasiswa](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/887b4397d8fa16556463178375eda80df105d5c6/3/Tugas%205/Screenshots/Database/After/mahasiswa.png)
 
 ---
 
-### form_mk.php
-![input mata kuliah](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/c6b67d670bf09fcb463c5d9512f837f15cc74b0a/3/Tugas%205/Screenshot/Form/input%20mata_kuliah.png)
+`form_mk.php`
+![input mata kuliah](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/887b4397d8fa16556463178375eda80df105d5c6/3/Tugas%205/Screenshots/Form/input%20mata_kuliah.png)
 
-### mata_kuliah (Before)
-![input mata kuliah](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/cdff7ee98e14b83fb997053658cbdf7d6858ebf2/3/Tugas%205/Screenshot/Database/Before/mata_kuliah.png)
+`mata_kuliah` (Before)
+![input mata kuliah](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/887b4397d8fa16556463178375eda80df105d5c6/3/Tugas%205/Screenshots/Database/Before/mata_kuliah.png)
 
-### mata_kuliah (After)
-![input mata kuliah](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/cdff7ee98e14b83fb997053658cbdf7d6858ebf2/3/Tugas%205/Screenshot/Database/After/mata_kuliah.png)
+`mata_kuliah` (After)
+![input mata kuliah](https://github.com/d3wnzo/Prak-Pemrograman-Berbasis-Web-B/blob/887b4397d8fa16556463178375eda80df105d5c6/3/Tugas%205/Screenshots/Database/After/mata_kuliah.png)
 
 # Analisis Error
 ### setup.php
